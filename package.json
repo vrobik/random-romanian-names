@@ -10,6 +10,10 @@
   ],
   "author": "Vitalie Robu <robuvitalik@gmail.com>",
   "license": "MIT",
+  "repository":{
+	"type": "git",
+	"url": "git+https://github.com/vrobik/random-romanian-names.git"
+  },
   "bugs": {
     "url": "https://github.com/vrobik/random-romanian-names/issues"
   },
