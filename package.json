@@ -1,6 +1,6 @@
 {
   "name": "random-romanian-names",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Randon Romanian names",
   "main": "src/index.js",
   "keywords": [
