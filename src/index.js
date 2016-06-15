@@ -1,6 +1,6 @@
 var uniqueRandomArray = require('unique-random-array');
-var namesB = require('./nameB.json');
-var namesF = require('./nameF.json');
+var namesB = require('./numeB.json');
+var namesF = require('./numeF.json');
 var all = [].concat(namesB,namesF);
 module.exports = {
 	all: all,
