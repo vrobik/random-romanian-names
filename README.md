@@ -1,5 +1,5 @@
 # random-romanian-names
-> return romanian name
+> return romanian name or all list
 
 ## Install
 
