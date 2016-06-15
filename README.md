@@ -18,6 +18,6 @@ var randomName = romanianNames.random();
 console.log("List of names: ", allNames);
 //=> List of names: ["ALEXANDRU", ...  ]
 
-console.log("Random name: ", randmName);
+console.log("Random name: ", randomName);
 //=> Random name: CĂTĂLIN
 ```
