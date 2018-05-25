@@ -1,4 +1,7 @@
 # random-romanian-names
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/vrobik/random-romanian-names.svg)](https://greenkeeper.io/)
+
 > return romanian name or all list
 
 ## Install
