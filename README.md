@@ -1,6 +1,8 @@
 # random-romanian-names
 
 [![Greenkeeper badge](https://badges.greenkeeper.io/vrobik/random-romanian-names.svg)](https://greenkeeper.io/)
+[![npm version](https://img.shields.io/npm/v/random-romanian-names.svg)](https://npm.im/random-romanian-names)
+
 
 > return romanian name or all list
 
